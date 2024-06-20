@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #90e0ef;
+    color: #0d617a;
+    border-radius: border-box;
+
+}
+
+.class{
+    margin: 20px;
+    padding: 10px;
+    border: 2px;
+    /* border-color: #778da9; */
+}
+
+.a{
+    border-radius: border-box;
+    margin: 2px;
+    padding: 5px;
+    color: #4a4e69;
+    border-color: black;
+}
